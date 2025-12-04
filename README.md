@@ -1,5 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Requirements
+
+Before getting started, make sure you have the following installed:
+
+- **Node.js**: >= 20
+- **Java Development Kit (JDK)**: 17 or higher (JDK 17 is recommended for React Native 0.82.1)
+- **Android Studio**: Latest version with Android SDK (for Android development)
+- **Xcode**: Latest version (for iOS development on macOS only)
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
